@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-05-11T13:51:48.847Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sJn8PuNGQHBC3F3N49SL" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-11T14:13:37.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="WLlsXrrKiXXTPrZ6PpF0" version="24.4.0" type="github">
   <diagram name="第 1 页" id="hYKCOgf0xL3oVbTRl8cX">
     <mxGraphModel dx="961" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Deu7PyBhKHUm5De5o2YE-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="Deu7PyBhKHUm5De5o2YE-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="360" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="e5-1EZwCJgzJsYeVNrzZ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="E1X3tv5tJPRmaZfX1eh5-3" target="e5-1EZwCJgzJsYeVNrzZ-9" edge="1">
@@ -13,7 +13,7 @@
         <mxCell id="E1X3tv5tJPRmaZfX1eh5-3" value="选品" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="10" y="440" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="E1X3tv5tJPRmaZfX1eh5-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Workflow&lt;/h1&gt;&lt;p&gt;1.适用平台：TEMU&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;2.适用ERP系统：店小秘&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.制图：Jason Wu.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="E1X3tv5tJPRmaZfX1eh5-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;全托管工作流&lt;/h1&gt;&lt;p&gt;1.适用平台：TEMU&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;2.适用ERP系统：店小秘&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;3.制图：Jason Wu.&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="30" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="e5-1EZwCJgzJsYeVNrzZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="e5-1EZwCJgzJsYeVNrzZ-8" target="e5-1EZwCJgzJsYeVNrzZ-13" edge="1">
